@@ -184,4 +184,4 @@ $ streamlit run app.py
 
 ## 🎉 License
 
-This project is licensed under the Kunal License.
+This project is licensed under the Manish License.
